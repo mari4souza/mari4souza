@@ -1,4 +1,4 @@
-# Olá! Eu sou a Maria Eduarda ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Eduarda!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align='justify'>
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba), porém, já completei dois anos em Ciências da Computação pela UFSCar e possuo diploma técnico em Administração.
