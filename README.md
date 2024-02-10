@@ -42,3 +42,4 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+
