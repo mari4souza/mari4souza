@@ -37,7 +37,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   - Student avatar made in picrew by <a href="https://picrew.me/en">@andi_aqua_</a> 
     
  
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
 
 </details>
 
