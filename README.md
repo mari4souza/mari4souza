@@ -54,6 +54,11 @@ Minha paixão pela área de tecnologia se reflete na minha versatilidade, abrang
 <br>
 <br>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mari4souza/count.svg?"  />
+</div>
+
+
 <details align="left">
   <summary></summary> 
  
