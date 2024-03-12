@@ -62,7 +62,6 @@ Minha paixão pela área de tecnologia se reflete na minha versatilidade, abrang
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Student avatar made in picrew by <a href="https://picrew.me/en">@andi_aqua_</a> 
 
-    
 
   <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">mari4souza</a>.</div>
 
