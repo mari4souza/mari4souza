@@ -66,4 +66,3 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
 
 </details>
-
