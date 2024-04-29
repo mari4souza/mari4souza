@@ -1,7 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB00B4&center=true&random=false&width=435&lines=Welcome+to+my+profile!+%F0%9F%92%99%F0%9F%93%9A%F0%9F%91%BE)](https://git.io/typing-svg)
+
+<img align="center" alt="" height="200px" src="./header-gif.gif">
+
 <img align="right" alt="" height="300px" src="./me.png">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Eduarda!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
-
 
 
 <p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba), porém, já completei dois anos em Ciências da Computação pela UFSCar e possuo diploma técnico em Administração.
