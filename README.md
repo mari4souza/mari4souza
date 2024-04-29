@@ -2,19 +2,23 @@
 
 <img align="center" alt="" src="./header-gif.gif">
 
-<img align="right" alt="" height="250px" src="./me.png">
 
+#
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba), porém, já completei dois anos em Ciências da Computação pela UFSCar e possuo diploma técnico em Administração.
+<p align="center">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Facens (Faculdade de Engenharia de Sorocaba), porém, já completei dois anos em Ciências da Computação pela UFSCar e possuo diploma técnico em Administração.
 Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e JavaScript. 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
+#
+
+<img align="right" alt="" height="200px" src="./me.png">
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+
 
 <h3 align="left">My Stack</h3>
 
@@ -40,6 +44,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
+#
 
 <h3>GitHub Stats</h3>
 
