@@ -1,12 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!+%F0%9F%92%99%F0%9F%93%9A%F0%9F%91%BE" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-
 <img align="center" alt="" src="./src/header-gif.gif">
-
 
 #
 
@@ -52,7 +50,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 #
 
 <div style="text-align: center;" align="center">
-  <h3> ✄┈┈GitHub Stats </h3>
+  <h3>* GitHub Stats *</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
